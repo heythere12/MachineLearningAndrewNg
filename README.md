@@ -3,23 +3,24 @@ This repository contains all the assigment solutions for this course.
 
 Code is written in MATLAB.
 
-Includes:
-Linear Regression (one variable and multiple variables)
+Topics that are covered:
 
-1) Logistic Regression
+1) Linear Regression (single and multiple variables)
 
-2) Regularization and Overfitting
+2) Logistic Regression
 
-3) Neural networks
+3) Regularization and Overfitting
 
-4) Support Vector Machine
+4) Neural networks
 
-5) Clustering
+5) Support Vector Machine
 
-6) Dimensionality Reduction
+6) Clustering
 
-7) Anomaly Detection
+7) Dimensionality Reduction
 
-8) Recommendation System
+8) Anomaly Detection
+
+9) Recommendation System
 
 For more information you can visit: https://www.coursera.org/learn/machine-learning
